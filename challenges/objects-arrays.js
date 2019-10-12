@@ -42,7 +42,7 @@ console.log(`${dinosaur_1.name}' weighed about ${dinosaur_1.weight}kg.`);
 console.log(`${dinosaur_3.name}'s were ${dinosaur_3.diet}.`);
 
 // How long was a stegosaurus?
-console.log(`${dinosaur_2.name}' were about ${dinosaur_3.length}m long.`);
+console.log(`${dinosaur_2.name}' were about ${dinosaur_2.length}m long.`);
 
 // What time period did tyrannosaurus live in?
 console.log(`${dinosaur_1.name}' lived in the ${dinosaur_1.period} time period.`);
